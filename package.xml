@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <name>ardent_proto_description</name>
+  <version>0.1.0</version>
+  <description>Describes the prototype ARDENT robot model for Gazebo</description>
+
+  <maintainer email="nathan.boyd.481@my.csun.edu">Nathan Boyd</maintainer>
+
+
+  <license>MIT</license>
+
+
+  <!--<url type="website">http://wiki.ros.org/ardent_description</url> -->
+
+
+  <author email="nathan.boyd.481@my.csun.edu">Nathan Boyd</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>
